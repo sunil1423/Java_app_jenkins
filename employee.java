@@ -2,7 +2,7 @@ public abstract class employee {
     String name;   
     double basesalary;
 
-    abstract void calsalary();
+    abstract void calsalary();    
     abstract void work();
 
     abstract void addBonus(double bonus);
