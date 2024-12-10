@@ -5,7 +5,7 @@ public abstract class employee {
     abstract void calsalary();    
     abstract void work();
 
-    abstract void addBonus(double bonus);
+    abstract void addBonus(double bonus);   
 
 
 
