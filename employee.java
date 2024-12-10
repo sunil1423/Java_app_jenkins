@@ -1,5 +1,5 @@
 public abstract class employee {
-    String name;
+    String name;   
     double basesalary;
 
     abstract void calsalary();
